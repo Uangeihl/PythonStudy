@@ -1,5 +1,5 @@
 class Solution(object):
-    def plusOne(digits):
+    def plusOne(self, digits):
         """
         :type digits: List[int]
         :rtype: List[int]
@@ -20,5 +20,5 @@ class Solution(object):
             return digits
 
 
-digits = [9]
-print(Solution.plusOne(digits))
+s = Solution()
+print(s.plusOne([9]))

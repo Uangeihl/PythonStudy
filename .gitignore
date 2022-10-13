@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/PythonStudy.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
