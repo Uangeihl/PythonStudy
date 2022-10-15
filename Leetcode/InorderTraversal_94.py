@@ -12,6 +12,17 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[int]
         """
+        # stack, ret = [], []  # stack 栈
+        # cur = root  # 当前节点
+        # while stack or cur:
+        #     if cur:
+        #         stack.append(cur)
+        #         cur = cur.left
+        #     else:
+        #         cur = stack.pop()
+        #         ret.append(cur.val)  # ret最终输出数组
+        #         cur = cur.right
+        # return ret
         res = []
         self.help_94(root, res)
         return res
