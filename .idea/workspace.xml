@@ -26,6 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95c29a8c-b08e-4ed1-9f9f-8f123e998b82" name="Default Changelist" comment="10.16 commit">
+      <change afterPath="$PROJECT_DIR$/Leetcode/IsSymmetric_101.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,6 +172,7 @@
       <workItem from="1665709432395" duration="1145000" />
       <workItem from="1665797464356" duration="872000" />
       <workItem from="1665805647454" duration="381000" />
+      <workItem from="1665892204024" duration="1371000" />
     </task>
     <task id="LOCAL-00001" summary="10.13 commit">
       <created>1665626976249</created>
