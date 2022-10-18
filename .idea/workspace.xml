@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c29a8c-b08e-4ed1-9f9f-8f123e998b82" name="Default Changelist" comment="10.16 commit">
-      <change afterPath="$PROJECT_DIR$/Leetcode/IsSymmetric_101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="95c29a8c-b08e-4ed1-9f9f-8f123e998b82" name="Default Changelist" comment="10.17 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +169,7 @@
       <workItem from="1665709432395" duration="1145000" />
       <workItem from="1665797464356" duration="872000" />
       <workItem from="1665805647454" duration="381000" />
-      <workItem from="1665892204024" duration="1371000" />
+      <workItem from="1665892204024" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="10.13 commit">
       <created>1665626976249</created>
@@ -202,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665805892853</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="10.17 commit">
+      <created>1665973099001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665973099001</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +240,8 @@
     <MESSAGE value="10.14 commit" />
     <MESSAGE value="10.15 commit" />
     <MESSAGE value="10.16 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.16 commit" />
+    <MESSAGE value="10.17 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.17 commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonStudy$DeleteDuplicates_83.coverage" NAME="DeleteDuplicates_83 Coverage Results" MODIFIED="1665626297016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
